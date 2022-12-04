@@ -1,0 +1,15 @@
+D:\Учёба GB\С_Sharp\seminar3\task18\bin\Debug\net6.0\task18.exe
+D:\Учёба GB\С_Sharp\seminar3\task18\bin\Debug\net6.0\task18.deps.json
+D:\Учёба GB\С_Sharp\seminar3\task18\bin\Debug\net6.0\task18.runtimeconfig.json
+D:\Учёба GB\С_Sharp\seminar3\task18\bin\Debug\net6.0\task18.dll
+D:\Учёба GB\С_Sharp\seminar3\task18\bin\Debug\net6.0\task18.pdb
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.AssemblyInfo.cs
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.dll
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\refint\task18.dll
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.pdb
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\task18.genruntimeconfig.cache
+D:\Учёба GB\С_Sharp\seminar3\task18\obj\Debug\net6.0\ref\task18.dll
