@@ -2,14 +2,21 @@
 // 14212 -> нет
 // 12821 -> да
 // 23432 -> да
-Console.WriteLine("Введите число");
-int number = Convert.ToInt32(Console.ReadLine());
-if (number == )
+Console.Write("Введите число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int reverse = 0;
+int n = num;
+
+bool isPalindrome(int num)
 {
-    Console.WriteLine("третьей цифры нет");
+    while (n > 0)
+    {
+        int lastNum = n % 10;
+        reverse = reverse * 10 + lastNum;
+        n = n / 10;
+
+    }
+    return (num == reverse);
 }
-while (number >= 999)
-{
-    number = number / 10;
-}
-Console.WriteLine("третья цифра вводимого числа: " + number %10);
+
+Console.Write(isPalindrome(num) ? "Введёное вами число является палиндромом" : "Введёное вами число не является палиндромом");
