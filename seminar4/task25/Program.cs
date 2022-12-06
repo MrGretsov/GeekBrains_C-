@@ -2,25 +2,13 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 // Не использовать Math.Pow() и аналоги!
-int numberA = ReadInt("Введите число A: ");
-int numberB = ReadInt("Введите число B: ");
-ToDegree(numberA, numberB);
-
-
-// Функция возведения в степень
-void ToDegree(int a, int b)
+Console.WriteLine("введите число A");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("введите число B");
+int b = Convert.ToInt32(Console.ReadLine());
+int step = a;
+for (int i = 1; i < b; i++)
 {
-    int result = 1;
-    for (int i = 1; i <= b; i++)
-    {
-        result = result * a;
-    }
-    Console.WriteLine(result);
+step = step * a;
 }
-
-// Функция ввода
-int ReadInt(string message)
-{
-    Console.WriteLine(message);
-    return Convert.ToInt32(Console.ReadLine());
-}
+Console.WriteLine(a+ " в степени " + b + " равно: " + step);
