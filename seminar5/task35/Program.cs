@@ -3,15 +3,20 @@
 // [5, 18, 123, 6, 2] -> 1
 // [1, 2, 3, 6, 2] -> 0
 // [10, 11, 12, 13, 14] -> 5
-int [] CreateArray ()
+int[] array = new int[123];
+int count=0;
+
+for (int i = 0; i < array.Length; i++)
 {
-int [] massive = new int[new Random().Next(1, 100)];
-int i = 0;
-while (i <= (massive.Length - 1))
+    array[i] = new Random().Next(0, 150);
+    Console.Write(array[i] + " ");
+}
+Console.WriteLine();
+for (int j = 0; j < array.Length; j++)
 {
-    massive[i] = new Random().Next(0, 100);
-    i ++;
+    if(array[j] > 9 & array[j] < 100) 
+    count = count + 1;
 }
-Console.WriteLine($"Массив: {string.Join(", ", massive)}");
-return massive;
-}
+Console.WriteLine();
+Console.Write("Массив совержит следующее количество элементов из отрезка [10,99] - ");
+Console.Write(count);

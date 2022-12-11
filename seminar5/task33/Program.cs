@@ -33,7 +33,7 @@ bool isNumberInAray(int[] array, int findNumber)
 const int SIZE = 10;
 const int LEFTRANGE = -9;
 const int RIGHTRANGE = 9;
-const int FINDNUMBER = 5;
+const int FINDNUMBER = 4;
 
 int[] arr = GetRandomArray(SIZE, LEFTRANGE, RIGHTRANGE);
 Console.WriteLine(string.Join(", ", arr));
