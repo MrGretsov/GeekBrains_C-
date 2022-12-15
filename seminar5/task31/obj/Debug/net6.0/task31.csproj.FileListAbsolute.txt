@@ -1,0 +1,15 @@
+D:\Учёба GB\С_Sharp\seminar5\task31\bin\Debug\net6.0\task31.exe
+D:\Учёба GB\С_Sharp\seminar5\task31\bin\Debug\net6.0\task31.deps.json
+D:\Учёба GB\С_Sharp\seminar5\task31\bin\Debug\net6.0\task31.runtimeconfig.json
+D:\Учёба GB\С_Sharp\seminar5\task31\bin\Debug\net6.0\task31.dll
+D:\Учёба GB\С_Sharp\seminar5\task31\bin\Debug\net6.0\task31.pdb
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.csproj.AssemblyReference.cache
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfoInputs.cache
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfo.cs
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.csproj.CoreCompileInputs.cache
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.dll
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\refint\task31.dll
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.pdb
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\task31.genruntimeconfig.cache
+D:\Учёба GB\С_Sharp\seminar5\task31\obj\Debug\net6.0\ref\task31.dll
